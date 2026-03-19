@@ -1,0 +1,5 @@
+{
+  "name": "AI Web Builder",
+  "description": "An AI-powered website builder that turns prompts into functional websites with real-time editing via chat.",
+  "requestFramePermissions": []
+}
